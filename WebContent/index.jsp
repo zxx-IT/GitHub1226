@@ -9,7 +9,7 @@
 <body>
 
 <center>
-	HELLO GITHUB 1226!!!!!!!!!!!!!!!!!!!
+	HELLO GITHUB 1226!!!!!!!!!!!!
 </center>
 
 </body>
